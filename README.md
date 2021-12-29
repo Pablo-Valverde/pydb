@@ -1,2 +1,2 @@
 # pydb
- Database API wrapper for python
+Database API wrapper for python
